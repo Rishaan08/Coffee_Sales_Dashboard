@@ -5,10 +5,9 @@ This project presents a dynamic and interactive dashboard built in Microsoft Exc
 Through this project, I explored techniques for cleaning and organizing data, building pivot tables and pivot charts, and designing dashboards that are both informative and user-friendly.
 
 
-Key Feature: Interactive Dashboard
+Interactive Dashboard
 
 The core highlight of this project is a fully dynamic dashboard that allows users to explore coffee order data with ease. The dashboard includes:
-	•	Filters for:
  
 	•	Roast Type
  
@@ -17,8 +16,6 @@ The core highlight of this project is a fully dynamic dashboard that allows user
 	•	Loyalty Card Usage
  
 	•	Date Range
- 
-	•	Automatically updating visuals and KPIs based on selected filters.
  
 	•	Clean layout for quick insights and intuitive navigation.
 
